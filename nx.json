@@ -22,6 +22,9 @@
     "mobile-app": {
       "tags": []
     },
+    "server": {
+      "tags": []
+    },
     "ui": {
       "tags": []
     }
